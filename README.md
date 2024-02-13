@@ -1,2 +1,2 @@
-# Mod-lisationG-o
+# ModélisationGéo
 University project to learn geometrical modelisation
